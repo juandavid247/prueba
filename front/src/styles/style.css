@@ -1,0 +1,26 @@
+
+  /* Estilo para los campos de entrada */
+  .form-control {
+    margin-bottom: 10px;
+  }
+  .form-label{
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  /* Estilos CSS */
+.navbar {
+  margin-bottom: 20px; /* Ajusta el margen inferior de la barra de navegación */
+}
+
+.container {
+  margin-top: 20px; /* Ajusta el margen superior del contenido */
+}
+
+/* Establece una altura mínima para el contenido */
+.content {
+  min-height: 400px;
+}
+
+  
+  
